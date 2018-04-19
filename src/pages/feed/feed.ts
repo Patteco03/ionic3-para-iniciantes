@@ -25,7 +25,7 @@ export class FeedPage {
     descricao: "estou criando um app incrivel",
     qntd_likes: 12,
     qntd_comments: 4,
-    time_comments: "11g ago"
+    time_comments: "11g ago 2015"
   }
 
   public lista_filmes = new Array<any>();
